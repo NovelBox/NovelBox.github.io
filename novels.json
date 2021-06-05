@@ -1,6 +1,6 @@
 {
     "contents": [
-        {'index': 0, 'title': '1000文字小説'},
-        {'index': 1, 'title': '原稿用紙'}
+        {"index": 0, "title": "1000文字小説"},
+        {"index": 1, "title": "原稿用紙"}
     ]
 }
