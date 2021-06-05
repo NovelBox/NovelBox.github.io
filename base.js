@@ -7,7 +7,8 @@ window.addEventListener('load', () => {
     })
     .then((result) => {
         ShowContentsList(result);
-        return true;
+        console.log('test data');
+        console.log(result);
     })
     .catch((error) => {
         TestContentsList();
