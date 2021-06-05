@@ -8,6 +8,7 @@ window.addEventListener('DOMContentLoaded', () => {
         console.log('test data');
     })
     .catch((error) => {
+        console.log(error);
         TestContentsList();
     });
     console.log('hello');
