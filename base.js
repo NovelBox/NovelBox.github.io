@@ -14,9 +14,8 @@ window.addEventListener('DOMContentLoaded', () => {
     console.log('hello');
 });
 
-function ShowContentsList(jsonObj){
+function ShowContentsList(data){
     console.log('get json object');
-    const data = jsonObj.results[0]
     ShowTableFromJson(data);
 }
 
