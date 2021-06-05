@@ -16,7 +16,7 @@ window.addEventListener('load', () => {
 
 function ShowContentsList(jsonObj){
     const data = jsonObj.results[0]
-    console.log(data);
+    ShowTableFromJson(data);
 }
 
 const TestJson = {
