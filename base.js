@@ -1,6 +1,6 @@
 const data_url = 'novels.json';
 
-window.addEventListener('load', () => {
+window.addEventListener('DOMContentLoaded', () => {
     fetch(data_url)
     .then((response) => response.json())
     .then((data) => {
@@ -9,9 +9,9 @@ window.addEventListener('load', () => {
     })
     .catch((error) => {
         TestContentsList();
-    })
+    });
     console.log('hello');
-})
+});
 
 function ShowContentsList(jsonObj){
     console.log('get json object');
