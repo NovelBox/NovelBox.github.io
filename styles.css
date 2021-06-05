@@ -1,0 +1,11 @@
+.table {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    margin: auto;
+}
