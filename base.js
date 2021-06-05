@@ -1,4 +1,4 @@
-const data_url = '.novels.json';
+const data_url = 'novels.json';
 
 window.addEventListener('load', () => {
     fetch(data_url)
