@@ -37,9 +37,8 @@ function ShowTableFromJson(obj){
     const table = document.createElement('table');
     // ヘッダー作成
     const tr = document.createElement('tr');
-    for (key in data) {
+    for (key in data[0]) {
         const th = document.createElement('th');
-        th.classList.add('row');
         th.textContent = key;
         tr.appendChild(th);
     }
@@ -47,8 +46,9 @@ function ShowTableFromJson(obj){
     // ボディ作成
     for (let i = 0; i < data.length; i++) {
         const tr = document.createElement('tr');
-        for (key in data) {
+        for (key in data[0]) {
             const td = document.createElement('td');
+            td.classList.add('cell');
             td.textContent = data[i][key];
             tr.appendChild(td);
         }
