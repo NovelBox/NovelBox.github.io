@@ -2,13 +2,10 @@ const data_url = 'novels.json';
 
 window.addEventListener('load', () => {
     fetch(data_url)
-    .then((response) => {
-        return response.json()
-    })
-    .then((result) => {
-        ShowContentsList(result);
+    .then((response) => response.json())
+    .then((data) => {
+        ShowContentsList(data);
         console.log('test data');
-        console.log(result);
     })
     .catch((error) => {
         TestContentsList();
@@ -17,6 +14,7 @@ window.addEventListener('load', () => {
 })
 
 function ShowContentsList(jsonObj){
+    console.log('get json object');
     const data = jsonObj.results[0]
     ShowTableFromJson(data);
 }
