@@ -71,6 +71,66 @@
       "title": "真っ白な世界で、真っ黒な君と"
     },
     {
+      "index": "BKS",
+      "genre": "ファンタジィ",
+      "title": "ブラックス"
+    },
+    {
+      "index": "AKN",
+      "genre": "ファンタジィ",
+      "title": "アクマの泪"
+    },
+    {
+      "index": "SMM",
+      "genre": "ファンタジィ",
+      "title": "終末はもう来ない"
+    },
+    {
+      "index": "OHD",
+      "genre": "ファンタジィ",
+      "title": "お妃様のドラゴン飼育官"
+    },
+    {
+      "index": "KNE",
+      "genre": "ファンタジィ",
+      "title": "悲しみのエンドマーク"
+    },
+    {
+      "index": "STF",
+      "genre": "ファンタジィ",
+      "title": "里に降る羽根"
+    },
+    {
+      "index": "KTM",
+      "genre": "ファンタジィ",
+      "title": "凍りついた町で"
+    },
+    {
+      "index": "L1Y",
+      "genre": "ファンタジィ",
+      "title": "レベル１勇者の旅立ち"
+    },
+    {
+      "index": "ANS",
+      "genre": "ファンタジィ",
+      "title": "朝日の昇らない砂漠で"
+    },
+    {
+      "index": "ISG",
+      "genre": "ファンタジィ",
+      "title": "異世界殺し"
+    },
+    {
+      "index": "DRG",
+      "genre": "ファンタジィ",
+      "title": "毒の林檎"
+    },
+    {
+      "index": "BLL",
+      "genre": "ファンタジィ",
+      "title": "Bloody Load"
+    },
+    {
       "index": "KKS",
       "genre": "百合SF",
       "title": "空虚な水槽"
@@ -91,6 +151,11 @@
       "title": "ＳＲ"
     },
     {
+      "index": "H10",
+      "genre": "SF",
+      "title": "Ｈ１"
+    },
+    {
       "index": "HSH",
       "genre": "SF",
       "title": "滅びた世界で、本を読む"
@@ -101,6 +166,21 @@
       "title": "セブンス・サピエンス"
     },
     {
+      "index": "SGY",
+      "genre": "SF",
+      "title": "終末のジムノペディ"
+    },
+    {
+      "index": "MSK",
+      "genre": "SF",
+      "title": "見上げた空は機械油で滲む"
+    },
+    {
+      "index": "HAM",
+      "genre": "SF",
+      "title": "光の雨"
+    },
+    {
       "index": "HHB",
       "genre": "青春恋愛",
       "title": "歩幅"
@@ -109,6 +189,16 @@
       "index": "KSH",
       "genre": "恋愛",
       "title": "恋の腫瘍"
+    },
+    {
+      "index": "ACO",
+      "genre": "恋愛",
+      "title": "愛はカプチーノの温度で"
+    },
+    {
+      "index": "WNB",
+      "genre": "恋愛",
+      "title": "私たちの残り火"
     },
     {
       "index": "KSM",
@@ -126,14 +216,59 @@
       "title": "生きていること、その全て"
     },
     {
+      "index": "ATA",
+      "genre": "文学",
+      "title": "暗黒鉄道の朝"
+    },
+    {
+      "index": "BGS",
+      "genre": "文学",
+      "title": "ぼくがセックスをしたはなし"
+    },
+    {
+      "index": "WWW",
+      "genre": "文学",
+      "title": "わたしとワタシと私"
+    },
+    {
+      "index": "APZ",
+      "genre": "文学",
+      "title": "あるピアノ弾きの懺悔"
+    },
+    {
+      "index": "KSY",
+      "genre": "文学",
+      "title": "君のさよならを予約しよう"
+    },
+    {
+      "index": "JTU",
+      "genre": "文学",
+      "title": "銃声と歌声"
+    },
+    {
+      "index": "TFH",
+      "genre": "幻想",
+      "title": "てふの、ひとは"
+    },
+    {
+      "index": "ISS",
+      "genre": "幻想",
+      "title": "意識の砂浜"
+    },
+    {
+      "index": "YKE",
+      "genre": "幻想",
+      "title": "雪の聲"
+    },
+    {
       "index": "MEK",
       "genre": "ミステリ",
       "title": "見えない小指"
     },
     {
-      "index": "SIT",
+      "index": "AKT",
       "genre": "ミステリ",
-      "title": "臍帯"
+      "title": "赤い繋がり"
     },
     {
       "index": "KOK",
@@ -171,9 +306,89 @@
       "title": "贖罪の檻"
     },
     {
+      "index": "HAK",
+      "genre": "ミステリ",
+      "title": "犯人Ａの告白"
+    },
+    {
+      "index": "AKS",
+      "genre": "ミステリ",
+      "title": "赤い世界―Die Rote Welt―"
+    },
+    {
+      "index": "FTS",
+      "genre": "ミステリ",
+      "title": "二人の小説家"
+    },
+    {
+      "index": "SRO",
+      "genre": "ミステリ",
+      "title": "白い檻"
+    },
+    {
+      "index": "KSS",
+      "genre": "ミステリ",
+      "title": "神様の殺人"
+    },
+    {
+      "index": "WTI",
+      "genre": "ミステリ",
+      "title": "わたしの隣はいつも空席"
+    },
+    {
+      "index": "HHK",
+      "genre": "ホラー",
+      "title": "本を喰む子"
+    },
+    {
+      "index": "JSM",
+      "genre": "ホラー",
+      "title": "十三物語・偽"
+    },
+    {
+      "index": "AKH",
+      "genre": "ホラー",
+      "title": "あなたには休息が必要"
+    },
+    {
+      "index": "STY",
+      "genre": "ホラー",
+      "title": "白き手は闇に染まる"
+    },
+    {
+      "index": "KTN",
+      "genre": "ホラー",
+      "title": "この手なにいろ"
+    },
+    {
+      "index": "JNG",
+      "genre": "ホラー",
+      "title": "ジンガイ―Jingai―"
+    },
+    {
+      "index": "YCN",
+      "genre": "怪奇",
+      "title": "夢が血を流す"
+    },
+    {
+      "index": "BMK",
+      "genre": "怪奇",
+      "title": "バスはまだ来ない"
+    },
+    {
+      "index": "KKM",
+      "genre": "怪奇",
+      "title": "黒髪"
+    },
+    {
       "index": "TSD",
       "genre": "怪奇ミステリ",
       "title": "都市伝説"
+    },
+    {
+      "index": "KUK",
+      "genre": "怪奇ミステリ",
+      "title": "くれなゐの羽化"
     },
     {
       "index": "MSG",
@@ -181,14 +396,129 @@
       "title": "密室の画家"
     },
     {
+      "index": "YMI",
+      "genre": "怪奇ミステリ",
+      "title": "闇市"
+    },
+    {
+      "index": "KMK",
+      "genre": "怪奇ミステリ",
+      "title": "髪切り"
+    },
+    {
+      "index": "MDM",
+      "genre": "怪奇ミステリ",
+      "title": "微睡みの魔術師"
+    },
+    {
+      "index": "AKM",
+      "genre": "怪奇ファンタジィ",
+      "title": "蒼髪"
+    },
+    {
+      "index": "KMT",
+      "genre": "怪奇ファンタジィ",
+      "title": "影なき者たちの年越し"
+    },
+    {
+      "index": "ONG",
+      "genre": "怪奇ファンタジィ",
+      "title": "隠語り"
+    },
+    {
       "index": "AYS",
       "genre": "現代ファンタジィ",
       "title": "雨の止まない島"
     },
     {
+      "index": "BHK",
+      "genre": "現代ファンタジィ",
+      "title": "ブルーアワーの君"
+    },
+    {
       "index": "SNA",
       "genre": "現代ファンタジィ",
       "title": "さみしくなると雨が降る男のはなし"
+    },
+    {
+      "index": "OSK",
+      "genre": "現代ファンタジィ",
+      "title": "音を捨てた少女"
+    },
+    {
+      "index": "DRG",
+      "genre": "現代ファンタジィ",
+      "title": "ドリームガール"
+    },
+    {
+      "index": "KTM",
+      "genre": "現代ファンタジィ",
+      "title": "狐の森"
+    },
+    {
+      "index": "KOS",
+      "genre": "現代ファンタジィ",
+      "title": "幸福の黄金少女"
+    },
+    {
+      "index": "AUB",
+      "genre": "現代ドラマ",
+      "title": "愛を埋める場所"
+    },
+    {
+      "index": "MAA",
+      "genre": "現代ドラマ",
+      "title": "ミントの匂いと雨の痕"
+    },
+    {
+      "index": "KSK",
+      "genre": "現代ドラマ",
+      "title": "九条冴子は返さない"
+    },
+    {
+      "index": "GYI",
+      "genre": "現代ドラマ",
+      "title": "元気でやっています"
+    },
+    {
+      "index": "BGD",
+      "genre": "現代ドラマ",
+      "title": "ぼくはゲイです"
+    },
+    {
+      "index": "HDH",
+      "genre": "現代ドラマ",
+      "title": "ハミダシモノ、はじめました"
+    },
+    {
+      "index": "KRK",
+      "genre": "現代ドラマ",
+      "title": "亀裂の聲"
+    },
+    {
+      "index": "KYS",
+      "genre": "現代ドラマ",
+      "title": "暗闇に差し伸べて"
+    },
+    {
+      "index": "TBR",
+      "genre": "現代ドラマ",
+      "title": "食べるっ！"
+    },
+    {
+      "index": "AZC",
+      "genre": "現代ドラマ",
+      "title": "相槌"
+    },
+    {
+      "index": "KZS",
+      "genre": "現代ドラマ",
+      "title": "家族写真"
+    },
+    {
+      "index": "NJS",
+      "genre": "現代ドラマ",
+      "title": "二十年目のシャッター"
     },
     {
       "index": "YMM",
@@ -301,6 +631,11 @@
       "title": "校舎の思い出"
     },
     {
+      "index": "MAN",
+      "genre": "現代ドラマ",
+      "title": "緑でも赤でもない"
+    },
+    {
       "index": "SJK",
       "genre": "現代ドラマ",
       "title": "砂上の家族"
@@ -316,9 +651,84 @@
       "title": "きれいなうみ"
     },
     {
+      "index": "JFT",
+      "genre": "現代ドラマ",
+      "title": "情熱のフットボーラー"
+    },
+    {
+      "index": "KYP",
+      "genre": "現代ドラマ",
+      "title": "金曜日のピアノ"
+    },
+    {
+      "index": "GDL",
+      "genre": "現代ドラマ",
+      "title": "グッドルーザー"
+    },
+    {
+      "index": "OBJ",
+      "genre": "現代ドラマ",
+      "title": "おばあちゃんの時間"
+    },
+    {
+      "index": "DCO",
+      "genre": "現代ドラマ",
+      "title": "ダイチノオト"
+    },
+    {
+      "index": "SPA",
+      "genre": "現代ドラマ",
+      "title": "先生プロットがありません！"
+    },
+    {
+      "index": "KTB",
+      "genre": "現代ドラマ",
+      "title": "彼女の罪と罰"
+    },
+    {
+      "index": "KJS",
+      "genre": "現代ドラマ",
+      "title": "彼女の写真"
+    },
+    {
+      "index": "MDH",
+      "genre": "現代ドラマ",
+      "title": "もいちどのホームラン"
+    },
+    {
+      "index": "AMK",
+      "genre": "現代ドラマ",
+      "title": "あなたの前では綺麗な偶像で"
+    },
+    {
+      "index": "TKK",
+      "genre": "現代ドラマ",
+      "title": "月を聴く彼女"
+    },
+    {
+      "index": "SKT",
+      "genre": "現代ドラマ",
+      "title": "それでも彼女は手紙を書きたかった"
+    },
+    {
       "index": "MRK",
       "genre": "近未来ドラマ",
       "title": "ミスター・ロクデナシ"
+    },
+    {
+      "index": "DBR",
+      "genre": "近未来ドラマ",
+      "title": "デブリ"
+    },
+    {
+      "index": "HAK",
+      "genre": "近未来ドラマ",
+      "title": "拝啓、あなたが嫌いです"
+    },
+    {
+      "index": "SKW",
+      "genre": "近未来ドラマ",
+      "title": "生存報告、今日もわたしは生きてます"
     },
     {
       "index": "KKS",
@@ -346,6 +756,16 @@
       "title": "君の声は真相に消ゆ"
     },
     {
+      "index": "SKK",
+      "genre": "青春ミステリ",
+      "title": "そして彼女は消えた"
+    },
+    {
+      "index": "SAS",
+      "genre": "青春ミステリ",
+      "title": "少女Ａは卒業しない"
+    },
+    {
       "index": "UMS",
       "genre": "恋愛ミステリ",
       "title": "運命の人症候群"
@@ -359,6 +779,11 @@
       "index": "OIO",
       "genre": "恋愛ミステリ",
       "title": "オーロラの色を教えて"
+    },
+    {
+      "index": "YGE",
+      "genre": "恋愛ミステリ",
+      "title": "夕暮れの笑顔が描けない"
     },
     {
       "index": "KKT",
@@ -394,6 +819,36 @@
       "index": "ISC",
       "genre": "ライトノベル",
       "title": "異世界クラフト倶楽部"
+    },
+    {
+      "index": "KTM",
+      "genre": "ライトノベル",
+      "title": "黒猫と満月の関係"
+    },
+    {
+      "index": "DTK",
+      "genre": "ライトノベル",
+      "title": "デス娘、恋をする"
+    },
+    {
+      "index": "HBA",
+      "genre": "ライトノベル",
+      "title": "日日野有花の日常"
+    },
+    {
+      "index": "KMS",
+      "genre": "ライトノベル",
+      "title": "キモちのセカイ"
+    },
+    {
+      "index": "KGK",
+      "genre": "ライトノベル",
+      "title": "介護系彼女"
+    },
+    {
+      "index": "OIH",
+      "genre": "ライトノベル",
+      "title": "俺以外全部女のことをハーレムと呼ぶならそんな世界お断りします"
     },
     {
       "index": "TRM",
