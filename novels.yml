@@ -19,13 +19,13 @@ contents:
   - {index: OHD, genre: ファンタジィ, title: お妃様のドラゴン飼育官}
   - {index: KNE, genre: ファンタジィ, title: 悲しみのエンドマーク}
   - {index: STF, genre: ファンタジィ, title: 里に降る羽根}
-  - {index: KTM, genre: ファンタジィ, title: 凍りついた町で}
+  - {index: KOM, genre: ファンタジィ, title: 凍りついた町で}
   - {index: L1Y, genre: ファンタジィ, title: レベル１勇者の旅立ち}
   - {index: ANS, genre: ファンタジィ, title: 朝日の昇らない砂漠で}
   - {index: ISG, genre: ファンタジィ, title: 異世界殺し}
   - {index: DRG, genre: ファンタジィ, title: 毒の林檎}
   - {index: BLL, genre: ファンタジィ, title: Bloody Load}
-  - {index: KKS, genre: 百合SF, title: 空虚な水槽}
+  - {index: KKY, genre: 百合SF, title: 空虚な水槽}
   - {index: MKA, genre: SF, title: 水の国のアリス}
   - {index: HUY, genre: SF, title: 星が生まれる夜}
   - {index: SR0, genre: SF, title: ＳＲ}
@@ -58,11 +58,11 @@ contents:
   - {index: TMS, genre: ミステリ, title: 透明な世界}
   - {index: IKI, genre: ミステリ, title: いつも彼女はいなくなる}
   - {index: RNN, genre: ミステリ, title: 輪廻する日常}
-  - {index: KRK, genre: ミステリ, title: 紅の鎖}
+  - {index: KKS, genre: ミステリ, title: 紅の鎖}
   - {index: SZO, genre: ミステリ, title: 贖罪の檻}
-  - {index: HAK, genre: ミステリ, title: 犯人Ａの告白}
+  - {index: HNA, genre: ミステリ, title: 犯人Ａの告白}
   - {index: AKS, genre: ミステリ, title: 赤い世界―Die Rote Welt―}
-  - {index: FTS, genre: ミステリ, title: 二人の小説家}
+  - {index: FNS, genre: ミステリ, title: 二人の小説家}
   - {index: SRO, genre: ミステリ, title: 白い檻}
   - {index: KSS, genre: ミステリ, title: 神様の殺人}
   - {index: WTI, genre: ミステリ, title: わたしの隣はいつも空席}
@@ -113,17 +113,17 @@ contents:
   - {index: SNU, genre: 現代ドラマ, title: 讃岐うどん}
   - {index: NDI, genre: 現代ドラマ, title: 涙の意味は}
   - {index: NDM, genre: 現代ドラマ, title: 涙のものがたり}
-  - {index: KSO, genre: 現代ドラマ, title: 悲しみの落ちる場所}
+  - {index: KOB, genre: 現代ドラマ, title: 悲しみの落ちる場所}
   - {index: HME, genre: 現代ドラマ, title: 百万円のお仕事}
   - {index: HNK, genre: 現代ドラマ, title: ホンネの小箱}
   - {index: SKS, genre: 現代ドラマ, title: 四季少女}
-  - {index: ANS, genre: 現代ドラマ, title: あの夏の宿題}
+  - {index: ANN, genre: 現代ドラマ, title: あの夏の宿題}
   - {index: WYI, genre: 現代ドラマ, title: 我が家の異邦人}
   - {index: HSS, genre: 現代ドラマ, title: 炎の沈む島}
   - {index: FTS, genre: 現代ドラマ, title: フツーにスキ}
   - {index: SZK, genre: 現代ドラマ, title: 静苦}
   - {index: HTA, genre: 現代ドラマ, title: ひとり愛}
-  - {index: ONG, genre: 現代ドラマ, title: オニギる}
+  - {index: OGR, genre: 現代ドラマ, title: オニギる}
   - {index: KSO, genre: 現代ドラマ, title: 校舎の思い出}
   - {index: MAN, genre: 現代ドラマ, title: 緑でも赤でもない}
   - {index: SJK, genre: 現代ドラマ, title: 砂上の家族}
@@ -148,8 +148,8 @@ contents:
   - {index: KKS, genre: 日常, title: 今日子さんシリーズ}
   - {index: TGK, genre: 青春, title: 田川日和と恋の雨}
   - {index: GHW, genre: 青春ミステリ, title: ゴーストライター}
-  - {index: KTM, genre: 青春ミステリ, title: 言葉の結び目}
-  - {index: YMM, genre: 青春ミステリ, title: 君の声は真相に消ゆ}
+  - {index: KTB, genre: 青春ミステリ, title: 言葉の結び目}
+  - {index: YKS, genre: 青春ミステリ, title: 君の声は真相に消ゆ}
   - {index: SKK, genre: 青春ミステリ, title: そして彼女は消えた}
   - {index: SAS, genre: 青春ミステリ, title: 少女Ａは卒業しない}
   - {index: UMS, genre: 恋愛ミステリ, title: 運命の人症候群}
@@ -163,7 +163,7 @@ contents:
   - {index: KNZ, genre: ライトノベル, title: 神無月家ノ仕来リ}
   - {index: ISD, genre: ライトノベル, title: 異世界デート}
   - {index: ISC, genre: ライトノベル, title: 異世界クラフト倶楽部}
-  - {index: KTM, genre: ライトノベル, title: 黒猫と満月の関係}
+  - {index: KNM, genre: ライトノベル, title: 黒猫と満月の関係}
   - {index: DTK, genre: ライトノベル, title: デス娘、恋をする}
   - {index: HBA, genre: ライトノベル, title: 日日野有花の日常}
   - {index: KMS, genre: ライトノベル, title: キモちのセカイ}
