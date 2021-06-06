@@ -1,12 +1,409 @@
 {
   "contents": [
     {
-      "index": 0,
+      "index": "SMN",
+      "genre": "バラエティ",
       "title": "1000文字小説"
     },
     {
-      "index": 1,
+      "index": "TWN",
+      "genre": "バラエティ",
+      "title": "ツイノベ集"
+    },
+    {
+      "index": "GKO",
+      "genre": "バラエティ",
       "title": "原稿用紙の為の小作品集"
+    },
+    {
+      "index": "YSN",
+      "genre": "ファンタジィ",
+      "title": "勇者なう！"
+    },
+    {
+      "index": "SNH",
+      "genre": "ファンタジィ",
+      "title": "千年妃"
+    },
+    {
+      "index": "SKI",
+      "genre": "ファンタジィ",
+      "title": "使姫〜SHIKI〜"
+    },
+    {
+      "index": "YHK",
+      "genre": "ファンタジィ",
+      "title": "傭兵の心を溶かすもの"
+    },
+    {
+      "index": "UTM",
+      "genre": "ファンタジィ",
+      "title": "歌虫は悲しみの歌を奏でる"
+    },
+    {
+      "index": "CDD",
+      "genre": "ファンタジィ",
+      "title": "シンデレラになりたかったドブネズミ"
+    },
+    {
+      "index": "KTD",
+      "genre": "ファンタジィ",
+      "title": "言弾〜Kotodama〜"
+    },
+    {
+      "index": "ASO",
+      "genre": "ファンタジィ",
+      "title": "ある日、空から落ちてきて"
+    },
+    {
+      "index": "YKI",
+      "genre": "ファンタジィ",
+      "title": "ようこそ異世界横丁へ"
+    },
+    {
+      "index": "ADK",
+      "genre": "ファンタジィ",
+      "title": "仇討ちに来ました"
+    },
+    {
+      "index": "MSM",
+      "genre": "ファンタジィ",
+      "title": "真っ白な世界で、真っ黒な君と"
+    },
+    {
+      "index": "KKS",
+      "genre": "百合SF",
+      "title": "空虚な水槽"
+    },
+    {
+      "index": "MKA",
+      "genre": "SF",
+      "title": "水の国のアリス"
+    },
+    {
+      "index": "HUY",
+      "genre": "SF",
+      "title": "星が生まれる夜"
+    },
+    {
+      "index": "SR0",
+      "genre": "SF",
+      "title": "ＳＲ"
+    },
+    {
+      "index": "HSH",
+      "genre": "SF",
+      "title": "滅びた世界で、本を読む"
+    },
+    {
+      "index": "SVS",
+      "genre": "SF",
+      "title": "セブンス・サピエンス"
+    },
+    {
+      "index": "HHB",
+      "genre": "青春恋愛",
+      "title": "歩幅"
+    },
+    {
+      "index": "KSH",
+      "genre": "恋愛",
+      "title": "恋の腫瘍"
+    },
+    {
+      "index": "KSM",
+      "genre": "恋愛文学",
+      "title": "キスマーク"
+    },
+    {
+      "index": "SDA",
+      "genre": "文学",
+      "title": "それでも愛と叫ぶのか"
+    },
+    {
+      "index": "IKS",
+      "genre": "文学",
+      "title": "生きていること、その全て"
+    },
+    {
+      "index": "MEK",
+      "genre": "ミステリ",
+      "title": "見えない小指"
+    },
+    {
+      "index": "SIT",
+      "genre": "ミステリ",
+      "title": "臍帯"
+    },
+    {
+      "index": "KOK",
+      "genre": "ミステリ",
+      "title": "樹憶"
+    },
+    {
+      "index": "GYK",
+      "genre": "ミステリ",
+      "title": "逆転教室"
+    },
+    {
+      "index": "TMS",
+      "genre": "ミステリ",
+      "title": "透明な世界"
+    },
+    {
+      "index": "IKI",
+      "genre": "ミステリ",
+      "title": "いつも彼女はいなくなる"
+    },
+    {
+      "index": "RNN",
+      "genre": "ミステリ",
+      "title": "輪廻する日常"
+    },
+    {
+      "index": "KRK",
+      "genre": "ミステリ",
+      "title": "紅の鎖"
+    },
+    {
+      "index": "SZO",
+      "genre": "ミステリ",
+      "title": "贖罪の檻"
+    },
+    {
+      "index": "TSD",
+      "genre": "怪奇ミステリ",
+      "title": "都市伝説"
+    },
+    {
+      "index": "MSG",
+      "genre": "怪奇ミステリ",
+      "title": "密室の画家"
+    },
+    {
+      "index": "AYS",
+      "genre": "現代ファンタジィ",
+      "title": "雨の止まない島"
+    },
+    {
+      "index": "SNA",
+      "genre": "現代ファンタジィ",
+      "title": "さみしくなると雨が降る男のはなし"
+    },
+    {
+      "index": "YMM",
+      "genre": "現代ドラマ",
+      "title": "夢負けず"
+    },
+    {
+      "index": "STK",
+      "genre": "現代ドラマ",
+      "title": "その時、砕け散った"
+    },
+    {
+      "index": "KZM",
+      "genre": "現代ドラマ",
+      "title": "風を待つ"
+    },
+    {
+      "index": "SNN",
+      "genre": "現代ドラマ",
+      "title": "さんにん。"
+    },
+    {
+      "index": "CRM",
+      "genre": "現代ドラマ",
+      "title": "ちりめん"
+    },
+    {
+      "index": "AKK",
+      "genre": "現代ドラマ",
+      "title": "ある日、家族が消えた"
+    },
+    {
+      "index": "STT",
+      "genre": "現代ドラマ",
+      "title": "それを手にした時"
+    },
+    {
+      "index": "SNU",
+      "genre": "現代ドラマ",
+      "title": "讃岐うどん"
+    },
+    {
+      "index": "NDI",
+      "genre": "現代ドラマ",
+      "title": "涙の意味は"
+    },
+    {
+      "index": "NDM",
+      "genre": "現代ドラマ",
+      "title": "涙のものがたり"
+    },
+    {
+      "index": "KSO",
+      "genre": "現代ドラマ",
+      "title": "悲しみの落ちる場所"
+    },
+    {
+      "index": "HME",
+      "genre": "現代ドラマ",
+      "title": "百万円のお仕事"
+    },
+    {
+      "index": "HNK",
+      "genre": "現代ドラマ",
+      "title": "ホンネの小箱"
+    },
+    {
+      "index": "SKS",
+      "genre": "現代ドラマ",
+      "title": "四季少女"
+    },
+    {
+      "index": "ANS",
+      "genre": "現代ドラマ",
+      "title": "あの夏の宿題"
+    },
+    {
+      "index": "WYI",
+      "genre": "現代ドラマ",
+      "title": "我が家の異邦人"
+    },
+    {
+      "index": "HSS",
+      "genre": "現代ドラマ",
+      "title": "炎の沈む島"
+    },
+    {
+      "index": "FTS",
+      "genre": "現代ドラマ",
+      "title": "フツーにスキ"
+    },
+    {
+      "index": "SZK",
+      "genre": "現代ドラマ",
+      "title": "静苦"
+    },
+    {
+      "index": "HTA",
+      "genre": "現代ドラマ",
+      "title": "ひとり愛"
+    },
+    {
+      "index": "ONG",
+      "genre": "現代ドラマ",
+      "title": "オニギる"
+    },
+    {
+      "index": "KSO",
+      "genre": "現代ドラマ",
+      "title": "校舎の思い出"
+    },
+    {
+      "index": "SJK",
+      "genre": "現代ドラマ",
+      "title": "砂上の家族"
+    },
+    {
+      "index": "BHG",
+      "genre": "現代ドラマ",
+      "title": "ぼくらの秘密学校"
+    },
+    {
+      "index": "KUM",
+      "genre": "現代ドラマ",
+      "title": "きれいなうみ"
+    },
+    {
+      "index": "MRK",
+      "genre": "近未来ドラマ",
+      "title": "ミスター・ロクデナシ"
+    },
+    {
+      "index": "KKS",
+      "genre": "日常",
+      "title": "今日子さんシリーズ"
+    },
+    {
+      "index": "TGK",
+      "genre": "青春",
+      "title": "田川日和と恋の雨"
+    },
+    {
+      "index": "GHW",
+      "genre": "青春ミステリ",
+      "title": "ゴーストライター"
+    },
+    {
+      "index": "KTM",
+      "genre": "青春ミステリ",
+      "title": "言葉の結び目"
+    },
+    {
+      "index": "YMM",
+      "genre": "青春ミステリ",
+      "title": "君の声は真相に消ゆ"
+    },
+    {
+      "index": "UMS",
+      "genre": "恋愛ミステリ",
+      "title": "運命の人症候群"
+    },
+    {
+      "index": "KWR",
+      "genre": "恋愛ミステリ",
+      "title": "君と私の恋愛教室"
+    },
+    {
+      "index": "OIO",
+      "genre": "恋愛ミステリ",
+      "title": "オーロラの色を教えて"
+    },
+    {
+      "index": "KKT",
+      "genre": "ライトノベル",
+      "title": "今日も君はツいてない"
+    },
+    {
+      "index": "DPT",
+      "genre": "ライトノベル",
+      "title": "大賢者さまのパンツ！"
+    },
+    {
+      "index": "SKR",
+      "genre": "ライトノベル",
+      "title": "所詮この世はＲＰＧ"
+    },
+    {
+      "index": "YSH",
+      "genre": "ライトノベル",
+      "title": "勇者シャーロックは冒険しない"
+    },
+    {
+      "index": "KNZ",
+      "genre": "ライトノベル",
+      "title": "神無月家ノ仕来リ"
+    },
+    {
+      "index": "ISD",
+      "genre": "ライトノベル",
+      "title": "異世界デート"
+    },
+    {
+      "index": "ISC",
+      "genre": "ライトノベル",
+      "title": "異世界クラフト倶楽部"
+    },
+    {
+      "index": "TRM",
+      "genre": "落語",
+      "title": "時らーめん"
+    },
+    {
+      "index": "NJG",
+      "genre": "落語",
+      "title": "名付け屋「寿限無」"
     }
   ]
 }
