@@ -3,862 +3,1034 @@
     {
       "index": "SMN",
       "genre": "バラエティ",
-      "title": "1000文字小説"
+      "title": "1000文字小説",
+      "size": 0
     },
     {
       "index": "TWN",
       "genre": "バラエティ",
-      "title": "ツイノベ集"
+      "title": "ツイノベ集",
+      "size": 0
     },
     {
       "index": "GKO",
       "genre": "バラエティ",
-      "title": "原稿用紙の為の小作品集"
+      "title": "原稿用紙の為の小作品集",
+      "size": 0
     },
     {
       "index": "YSN",
       "genre": "ファンタジィ",
-      "title": "勇者なう！"
+      "title": "勇者なう！",
+      "size": 0
     },
     {
       "index": "SNH",
       "genre": "ファンタジィ",
-      "title": "千年妃"
+      "title": "千年妃",
+      "size": 0
     },
     {
       "index": "SKI",
       "genre": "ファンタジィ",
-      "title": "使姫〜SHIKI〜"
+      "title": "使姫〜SHIKI〜",
+      "size": 0
     },
     {
       "index": "YHK",
       "genre": "ファンタジィ",
-      "title": "傭兵の心を溶かすもの"
+      "title": "傭兵の心を溶かすもの",
+      "size": 0
     },
     {
       "index": "UTM",
       "genre": "ファンタジィ",
-      "title": "歌虫は悲しみの歌を奏でる"
+      "title": "歌虫は悲しみの歌を奏でる",
+      "size": 0
     },
     {
       "index": "CDD",
       "genre": "ファンタジィ",
-      "title": "シンデレラになりたかったドブネズミ"
+      "title": "シンデレラになりたかったドブネズミ",
+      "size": 0
     },
     {
       "index": "KTD",
       "genre": "ファンタジィ",
-      "title": "言弾〜Kotodama〜"
+      "title": "言弾〜Kotodama〜",
+      "size": 0
     },
     {
       "index": "ASO",
       "genre": "ファンタジィ",
-      "title": "ある日、空から落ちてきて"
+      "title": "ある日、空から落ちてきて",
+      "size": 0
     },
     {
       "index": "YKI",
       "genre": "ファンタジィ",
-      "title": "ようこそ異世界横丁へ"
+      "title": "ようこそ異世界横丁へ",
+      "size": 0
     },
     {
       "index": "ADK",
       "genre": "ファンタジィ",
-      "title": "仇討ちに来ました"
+      "title": "仇討ちに来ました",
+      "size": 0
     },
     {
       "index": "MSM",
       "genre": "ファンタジィ",
-      "title": "真っ白な世界で、真っ黒な君と"
+      "title": "真っ白な世界で、真っ黒な君と",
+      "size": 0
     },
     {
       "index": "BKS",
       "genre": "ファンタジィ",
-      "title": "ブラックス"
+      "title": "ブラックス",
+      "size": 0
     },
     {
       "index": "AKN",
       "genre": "ファンタジィ",
-      "title": "アクマの泪"
+      "title": "アクマの泪",
+      "size": 0
     },
     {
       "index": "SMM",
       "genre": "ファンタジィ",
-      "title": "終末はもう来ない"
+      "title": "終末はもう来ない",
+      "size": 0
     },
     {
       "index": "OHD",
       "genre": "ファンタジィ",
-      "title": "お妃様のドラゴン飼育官"
+      "title": "お妃様のドラゴン飼育官",
+      "size": 0
     },
     {
       "index": "KNE",
       "genre": "ファンタジィ",
-      "title": "悲しみのエンドマーク"
+      "title": "悲しみのエンドマーク",
+      "size": 0
     },
     {
       "index": "STF",
       "genre": "ファンタジィ",
-      "title": "里に降る羽根"
+      "title": "里に降る羽根",
+      "size": 0
     },
     {
       "index": "KOM",
       "genre": "ファンタジィ",
-      "title": "凍りついた町で"
+      "title": "凍りついた町で",
+      "size": 0
     },
     {
       "index": "L1Y",
       "genre": "ファンタジィ",
-      "title": "レベル１勇者の旅立ち"
+      "title": "レベル１勇者の旅立ち",
+      "size": 0
     },
     {
       "index": "ANS",
       "genre": "ファンタジィ",
-      "title": "朝日の昇らない砂漠で"
+      "title": "朝日の昇らない砂漠で",
+      "size": 0
     },
     {
       "index": "ISG",
       "genre": "ファンタジィ",
-      "title": "異世界殺し"
+      "title": "異世界殺し",
+      "size": 0
     },
     {
       "index": "DRG",
       "genre": "ファンタジィ",
-      "title": "毒の林檎"
+      "title": "毒の林檎",
+      "size": 0
     },
     {
       "index": "BLL",
       "genre": "ファンタジィ",
-      "title": "Bloody Load"
+      "title": "Bloody Load",
+      "size": 0
     },
     {
       "index": "KKY",
       "genre": "百合SF",
-      "title": "空虚な水槽"
+      "title": "空虚な水槽",
+      "size": 0
     },
     {
       "index": "MKA",
       "genre": "SF",
-      "title": "水の国のアリス"
+      "title": "水の国のアリス",
+      "size": 0
     },
     {
       "index": "HUY",
       "genre": "SF",
-      "title": "星が生まれる夜"
+      "title": "星が生まれる夜",
+      "size": 0
     },
     {
       "index": "SR0",
       "genre": "SF",
-      "title": "ＳＲ"
+      "title": "ＳＲ",
+      "size": 0
     },
     {
       "index": "H10",
       "genre": "SF",
-      "title": "Ｈ１"
+      "title": "Ｈ１",
+      "size": 0
     },
     {
       "index": "HSH",
       "genre": "SF",
-      "title": "滅びた世界で、本を読む"
+      "title": "滅びた世界で、本を読む",
+      "size": 0
     },
     {
       "index": "SVS",
       "genre": "SF",
-      "title": "セブンス・サピエンス"
+      "title": "セブンス・サピエンス",
+      "size": 0
     },
     {
       "index": "SGY",
       "genre": "SF",
-      "title": "終末のジムノペディ"
+      "title": "終末のジムノペディ",
+      "size": 0
     },
     {
       "index": "MSK",
       "genre": "SF",
-      "title": "見上げた空は機械油で滲む"
+      "title": "見上げた空は機械油で滲む",
+      "size": 0
     },
     {
       "index": "HAM",
       "genre": "SF",
-      "title": "光の雨"
+      "title": "光の雨",
+      "size": 0
     },
     {
       "index": "HHB",
       "genre": "青春恋愛",
-      "title": "歩幅"
+      "title": "歩幅",
+      "size": 0
     },
     {
       "index": "KSH",
       "genre": "恋愛",
-      "title": "恋の腫瘍"
+      "title": "恋の腫瘍",
+      "size": 0
     },
     {
       "index": "ACO",
       "genre": "恋愛",
-      "title": "愛はカプチーノの温度で"
+      "title": "愛はカプチーノの温度で",
+      "size": 0
     },
     {
       "index": "WNB",
       "genre": "恋愛",
-      "title": "私たちの残り火"
+      "title": "私たちの残り火",
+      "size": 0
     },
     {
       "index": "KSM",
       "genre": "恋愛文学",
-      "title": "キスマーク"
+      "title": "キスマーク",
+      "size": 0
     },
     {
       "index": "SDA",
       "genre": "文学",
-      "title": "それでも愛と叫ぶのか"
+      "title": "それでも愛と叫ぶのか",
+      "size": 0
     },
     {
       "index": "IKS",
       "genre": "文学",
-      "title": "生きていること、その全て"
+      "title": "生きていること、その全て",
+      "size": 0
     },
     {
       "index": "ATA",
       "genre": "文学",
-      "title": "暗黒鉄道の朝"
+      "title": "暗黒鉄道の朝",
+      "size": 0
     },
     {
       "index": "BGS",
       "genre": "文学",
-      "title": "ぼくがセックスをしたはなし"
+      "title": "ぼくがセックスをしたはなし",
+      "size": 0
     },
     {
       "index": "WWW",
       "genre": "文学",
-      "title": "わたしとワタシと私"
+      "title": "わたしとワタシと私",
+      "size": 0
     },
     {
       "index": "APZ",
       "genre": "文学",
-      "title": "あるピアノ弾きの懺悔"
+      "title": "あるピアノ弾きの懺悔",
+      "size": 0
     },
     {
       "index": "KSY",
       "genre": "文学",
-      "title": "君のさよならを予約しよう"
+      "title": "君のさよならを予約しよう",
+      "size": 0
     },
     {
       "index": "JTU",
       "genre": "文学",
-      "title": "銃声と歌声"
+      "title": "銃声と歌声",
+      "size": 0
     },
     {
       "index": "TFH",
       "genre": "幻想",
-      "title": "てふの、ひとは"
+      "title": "てふの、ひとは",
+      "size": 0
     },
     {
       "index": "ISS",
       "genre": "幻想",
-      "title": "意識の砂浜"
+      "title": "意識の砂浜",
+      "size": 0
     },
     {
       "index": "YKE",
       "genre": "幻想",
-      "title": "雪の聲"
+      "title": "雪の聲",
+      "size": 0
     },
     {
       "index": "MEK",
       "genre": "ミステリ",
-      "title": "見えない小指"
+      "title": "見えない小指",
+      "size": 0
     },
     {
       "index": "AKT",
       "genre": "ミステリ",
-      "title": "赤い繋がり"
+      "title": "赤い繋がり",
+      "size": 0
     },
     {
       "index": "KOK",
       "genre": "ミステリ",
-      "title": "樹憶"
+      "title": "樹憶",
+      "size": 0
     },
     {
       "index": "GYK",
       "genre": "ミステリ",
-      "title": "逆転教室"
+      "title": "逆転教室",
+      "size": 0
     },
     {
       "index": "TMS",
       "genre": "ミステリ",
-      "title": "透明な世界"
+      "title": "透明な世界",
+      "size": 0
     },
     {
       "index": "IKI",
       "genre": "ミステリ",
-      "title": "いつも彼女はいなくなる"
+      "title": "いつも彼女はいなくなる",
+      "size": 0
     },
     {
       "index": "RNN",
       "genre": "ミステリ",
-      "title": "輪廻する日常"
+      "title": "輪廻する日常",
+      "size": 0
     },
     {
       "index": "KKS",
       "genre": "ミステリ",
-      "title": "紅の鎖"
+      "title": "紅の鎖",
+      "size": 0
     },
     {
       "index": "SZO",
       "genre": "ミステリ",
-      "title": "贖罪の檻"
+      "title": "贖罪の檻",
+      "size": 0
     },
     {
       "index": "HNA",
       "genre": "ミステリ",
-      "title": "犯人Ａの告白"
+      "title": "犯人Ａの告白",
+      "size": 0
     },
     {
       "index": "AKS",
       "genre": "ミステリ",
-      "title": "赤い世界―Die Rote Welt―"
+      "title": "赤い世界―Die Rote Welt―",
+      "size": 0
     },
     {
       "index": "FNS",
       "genre": "ミステリ",
-      "title": "二人の小説家"
+      "title": "二人の小説家",
+      "size": 0
     },
     {
       "index": "SRO",
       "genre": "ミステリ",
-      "title": "白い檻"
+      "title": "白い檻",
+      "size": 0
     },
     {
       "index": "KSS",
       "genre": "ミステリ",
-      "title": "神様の殺人"
+      "title": "神様の殺人",
+      "size": 0
     },
     {
       "index": "WTI",
       "genre": "ミステリ",
-      "title": "わたしの隣はいつも空席"
+      "title": "わたしの隣はいつも空席",
+      "size": 0
     },
     {
       "index": "HHK",
       "genre": "ホラー",
-      "title": "本を喰む子"
+      "title": "本を喰む子",
+      "size": 0
     },
     {
       "index": "JSM",
       "genre": "ホラー",
-      "title": "十三物語・偽"
+      "title": "十三物語・偽",
+      "size": 0
     },
     {
       "index": "AKH",
       "genre": "ホラー",
-      "title": "あなたには休息が必要"
+      "title": "あなたには休息が必要",
+      "size": 0
     },
     {
       "index": "STY",
       "genre": "ホラー",
-      "title": "白き手は闇に染まる"
+      "title": "白き手は闇に染まる",
+      "size": 0
     },
     {
       "index": "KTN",
       "genre": "ホラー",
-      "title": "この手なにいろ"
+      "title": "この手なにいろ",
+      "size": 0
     },
     {
       "index": "JNG",
       "genre": "ホラー",
-      "title": "ジンガイ―Jingai―"
+      "title": "ジンガイ―Jingai―",
+      "size": 0
     },
     {
       "index": "YCN",
       "genre": "怪奇",
-      "title": "夢が血を流す"
+      "title": "夢が血を流す",
+      "size": 0
     },
     {
       "index": "BMK",
       "genre": "怪奇",
-      "title": "バスはまだ来ない"
+      "title": "バスはまだ来ない",
+      "size": 0
     },
     {
       "index": "KKM",
       "genre": "怪奇",
-      "title": "黒髪"
+      "title": "黒髪",
+      "size": 0
     },
     {
       "index": "TSD",
       "genre": "怪奇ミステリ",
-      "title": "都市伝説"
+      "title": "都市伝説",
+      "size": 0
     },
     {
       "index": "KUK",
       "genre": "怪奇ミステリ",
-      "title": "くれなゐの羽化"
+      "title": "くれなゐの羽化",
+      "size": 0
     },
     {
       "index": "MSG",
       "genre": "怪奇ミステリ",
-      "title": "密室の画家"
+      "title": "密室の画家",
+      "size": 0
     },
     {
       "index": "YMI",
       "genre": "怪奇ミステリ",
-      "title": "闇市"
+      "title": "闇市",
+      "size": 0
     },
     {
       "index": "KMK",
       "genre": "怪奇ミステリ",
-      "title": "髪切り"
+      "title": "髪切り",
+      "size": 0
     },
     {
       "index": "MDM",
       "genre": "怪奇ミステリ",
-      "title": "微睡みの魔術師"
+      "title": "微睡みの魔術師",
+      "size": 0
     },
     {
       "index": "AKM",
       "genre": "怪奇ファンタジィ",
-      "title": "蒼髪"
+      "title": "蒼髪",
+      "size": 0
     },
     {
       "index": "KMT",
       "genre": "怪奇ファンタジィ",
-      "title": "影なき者たちの年越し"
+      "title": "影なき者たちの年越し",
+      "size": 0
     },
     {
       "index": "ONG",
       "genre": "怪奇ファンタジィ",
-      "title": "隠語り"
+      "title": "隠語り",
+      "size": 0
     },
     {
       "index": "AYS",
       "genre": "現代ファンタジィ",
-      "title": "雨の止まない島"
+      "title": "雨の止まない島",
+      "size": 0
     },
     {
       "index": "BHK",
       "genre": "現代ファンタジィ",
-      "title": "ブルーアワーの君"
+      "title": "ブルーアワーの君",
+      "size": 0
     },
     {
       "index": "SNA",
       "genre": "現代ファンタジィ",
-      "title": "さみしくなると雨が降る男のはなし"
+      "title": "さみしくなると雨が降る男のはなし",
+      "size": 0
     },
     {
       "index": "OSK",
       "genre": "現代ファンタジィ",
-      "title": "音を捨てた少女"
+      "title": "音を捨てた少女",
+      "size": 0
     },
     {
       "index": "DRG",
       "genre": "現代ファンタジィ",
-      "title": "ドリームガール"
+      "title": "ドリームガール",
+      "size": 0
     },
     {
       "index": "KTM",
       "genre": "現代ファンタジィ",
-      "title": "狐の森"
+      "title": "狐の森",
+      "size": 0
     },
     {
       "index": "KOS",
       "genre": "現代ファンタジィ",
-      "title": "幸福の黄金少女"
+      "title": "幸福の黄金少女",
+      "size": 0
     },
     {
       "index": "AUB",
       "genre": "現代ドラマ",
-      "title": "愛を埋める場所"
+      "title": "愛を埋める場所",
+      "size": 0
     },
     {
       "index": "MAA",
       "genre": "現代ドラマ",
-      "title": "ミントの匂いと雨の痕"
+      "title": "ミントの匂いと雨の痕",
+      "size": 0
     },
     {
       "index": "KSK",
       "genre": "現代ドラマ",
-      "title": "九条冴子は返さない"
+      "title": "九条冴子は返さない",
+      "size": 0
     },
     {
       "index": "GYI",
       "genre": "現代ドラマ",
-      "title": "元気でやっています"
+      "title": "元気でやっています",
+      "size": 0
     },
     {
       "index": "BGD",
       "genre": "現代ドラマ",
-      "title": "ぼくはゲイです"
+      "title": "ぼくはゲイです",
+      "size": 0
     },
     {
       "index": "HDH",
       "genre": "現代ドラマ",
-      "title": "ハミダシモノ、はじめました"
+      "title": "ハミダシモノ、はじめました",
+      "size": 0
     },
     {
       "index": "KRK",
       "genre": "現代ドラマ",
-      "title": "亀裂の聲"
+      "title": "亀裂の聲",
+      "size": 0
     },
     {
       "index": "KYS",
       "genre": "現代ドラマ",
-      "title": "暗闇に差し伸べて"
+      "title": "暗闇に差し伸べて",
+      "size": 0
     },
     {
       "index": "TBR",
       "genre": "現代ドラマ",
-      "title": "食べるっ！"
+      "title": "食べるっ！",
+      "size": 0
     },
     {
       "index": "AZC",
       "genre": "現代ドラマ",
-      "title": "相槌"
+      "title": "相槌",
+      "size": 0
     },
     {
       "index": "KZS",
       "genre": "現代ドラマ",
-      "title": "家族写真"
+      "title": "家族写真",
+      "size": 0
     },
     {
       "index": "NJS",
       "genre": "現代ドラマ",
-      "title": "二十年目のシャッター"
+      "title": "二十年目のシャッター",
+      "size": 0
     },
     {
       "index": "YMM",
       "genre": "現代ドラマ",
-      "title": "夢負けず"
+      "title": "夢負けず",
+      "size": 0
     },
     {
       "index": "STK",
       "genre": "現代ドラマ",
-      "title": "その時、砕け散った"
+      "title": "その時、砕け散った",
+      "size": 0
     },
     {
       "index": "KZM",
       "genre": "現代ドラマ",
-      "title": "風を待つ"
+      "title": "風を待つ",
+      "size": 0
     },
     {
       "index": "SNN",
       "genre": "現代ドラマ",
-      "title": "さんにん。"
+      "title": "さんにん。",
+      "size": 0
     },
     {
       "index": "CRM",
       "genre": "現代ドラマ",
-      "title": "ちりめん"
+      "title": "ちりめん",
+      "size": 0
     },
     {
       "index": "AKK",
       "genre": "現代ドラマ",
-      "title": "ある日、家族が消えた"
+      "title": "ある日、家族が消えた",
+      "size": 0
     },
     {
       "index": "STT",
       "genre": "現代ドラマ",
-      "title": "それを手にした時"
+      "title": "それを手にした時",
+      "size": 0
     },
     {
       "index": "SNU",
       "genre": "現代ドラマ",
-      "title": "讃岐うどん"
+      "title": "讃岐うどん",
+      "size": 0
     },
     {
       "index": "NDI",
       "genre": "現代ドラマ",
-      "title": "涙の意味は"
+      "title": "涙の意味は",
+      "size": 0
     },
     {
       "index": "NDM",
       "genre": "現代ドラマ",
-      "title": "涙のものがたり"
+      "title": "涙のものがたり",
+      "size": 0
     },
     {
       "index": "KOB",
       "genre": "現代ドラマ",
-      "title": "悲しみの落ちる場所"
+      "title": "悲しみの落ちる場所",
+      "size": 0
     },
     {
       "index": "HME",
       "genre": "現代ドラマ",
-      "title": "百万円のお仕事"
+      "title": "百万円のお仕事",
+      "size": 0
     },
     {
       "index": "HNK",
       "genre": "現代ドラマ",
-      "title": "ホンネの小箱"
+      "title": "ホンネの小箱",
+      "size": 0
     },
     {
       "index": "SKS",
       "genre": "現代ドラマ",
-      "title": "四季少女"
+      "title": "四季少女",
+      "size": 0
     },
     {
       "index": "ANN",
       "genre": "現代ドラマ",
-      "title": "あの夏の宿題"
+      "title": "あの夏の宿題",
+      "size": 0
     },
     {
       "index": "WYI",
       "genre": "現代ドラマ",
-      "title": "我が家の異邦人"
+      "title": "我が家の異邦人",
+      "size": 0
     },
     {
       "index": "HSS",
       "genre": "現代ドラマ",
-      "title": "炎の沈む島"
+      "title": "炎の沈む島",
+      "size": 0
     },
     {
       "index": "FTS",
       "genre": "現代ドラマ",
-      "title": "フツーにスキ"
+      "title": "フツーにスキ",
+      "size": 0
     },
     {
       "index": "SZK",
       "genre": "現代ドラマ",
-      "title": "静苦"
+      "title": "静苦",
+      "size": 0
     },
     {
       "index": "HTA",
       "genre": "現代ドラマ",
-      "title": "ひとり愛"
+      "title": "ひとり愛",
+      "size": 0
     },
     {
       "index": "OGR",
       "genre": "現代ドラマ",
-      "title": "オニギる"
+      "title": "オニギる",
+      "size": 0
     },
     {
       "index": "KSO",
       "genre": "現代ドラマ",
-      "title": "校舎の思い出"
+      "title": "校舎の思い出",
+      "size": 0
     },
     {
       "index": "MAN",
       "genre": "現代ドラマ",
-      "title": "緑でも赤でもない"
+      "title": "緑でも赤でもない",
+      "size": 0
     },
     {
       "index": "SJK",
       "genre": "現代ドラマ",
-      "title": "砂上の家族"
+      "title": "砂上の家族",
+      "size": 0
     },
     {
       "index": "BHG",
       "genre": "現代ドラマ",
-      "title": "ぼくらの秘密学校"
+      "title": "ぼくらの秘密学校",
+      "size": 0
     },
     {
       "index": "KUM",
       "genre": "現代ドラマ",
-      "title": "きれいなうみ"
+      "title": "きれいなうみ",
+      "size": 0
     },
     {
       "index": "JFT",
       "genre": "現代ドラマ",
-      "title": "情熱のフットボーラー"
+      "title": "情熱のフットボーラー",
+      "size": 0
     },
     {
       "index": "KYP",
       "genre": "現代ドラマ",
-      "title": "金曜日のピアノ"
+      "title": "金曜日のピアノ",
+      "size": 0
     },
     {
       "index": "GDL",
       "genre": "現代ドラマ",
-      "title": "グッドルーザー"
+      "title": "グッドルーザー",
+      "size": 0
     },
     {
       "index": "OBJ",
       "genre": "現代ドラマ",
-      "title": "おばあちゃんの時間"
+      "title": "おばあちゃんの時間",
+      "size": 0
     },
     {
       "index": "DCO",
       "genre": "現代ドラマ",
-      "title": "ダイチノオト"
+      "title": "ダイチノオト",
+      "size": 0
     },
     {
       "index": "SPA",
       "genre": "現代ドラマ",
-      "title": "先生プロットがありません！"
+      "title": "先生プロットがありません！",
+      "size": 0
     },
     {
       "index": "KTB",
       "genre": "現代ドラマ",
-      "title": "彼女の罪と罰"
+      "title": "彼女の罪と罰",
+      "size": 0
     },
     {
       "index": "KJS",
       "genre": "現代ドラマ",
-      "title": "彼女の写真"
+      "title": "彼女の写真",
+      "size": 0
     },
     {
       "index": "MDH",
       "genre": "現代ドラマ",
-      "title": "もいちどのホームラン"
+      "title": "もいちどのホームラン",
+      "size": 0
     },
     {
       "index": "AMK",
       "genre": "現代ドラマ",
-      "title": "あなたの前では綺麗な偶像で"
+      "title": "あなたの前では綺麗な偶像で",
+      "size": 0
     },
     {
       "index": "TKK",
       "genre": "現代ドラマ",
-      "title": "月を聴く彼女"
+      "title": "月を聴く彼女",
+      "size": 0
     },
     {
       "index": "SKT",
       "genre": "現代ドラマ",
-      "title": "それでも彼女は手紙を書きたかった"
+      "title": "それでも彼女は手紙を書きたかった",
+      "size": 0
     },
     {
       "index": "MRK",
       "genre": "近未来ドラマ",
-      "title": "ミスター・ロクデナシ"
+      "title": "ミスター・ロクデナシ",
+      "size": 0
     },
     {
       "index": "DBR",
       "genre": "近未来ドラマ",
-      "title": "デブリ"
+      "title": "デブリ",
+      "size": 0
     },
     {
       "index": "HAK",
       "genre": "近未来ドラマ",
-      "title": "拝啓、あなたが嫌いです"
+      "title": "拝啓、あなたが嫌いです",
+      "size": 0
     },
     {
       "index": "SKW",
       "genre": "近未来ドラマ",
-      "title": "生存報告、今日もわたしは生きてます"
+      "title": "生存報告、今日もわたしは生きてます",
+      "size": 0
     },
     {
       "index": "KKS",
       "genre": "日常",
-      "title": "今日子さんシリーズ"
+      "title": "今日子さんシリーズ",
+      "size": 0
     },
     {
       "index": "TGK",
       "genre": "青春",
-      "title": "田川日和と恋の雨"
+      "title": "田川日和と恋の雨",
+      "size": 0
     },
     {
       "index": "GHW",
       "genre": "青春ミステリ",
-      "title": "ゴーストライター"
+      "title": "ゴーストライター",
+      "size": 0
     },
     {
       "index": "KTB",
       "genre": "青春ミステリ",
-      "title": "言葉の結び目"
+      "title": "言葉の結び目",
+      "size": 0
     },
     {
       "index": "YKS",
       "genre": "青春ミステリ",
-      "title": "君の声は真相に消ゆ"
+      "title": "君の声は真相に消ゆ",
+      "size": 0
     },
     {
       "index": "SKK",
       "genre": "青春ミステリ",
-      "title": "そして彼女は消えた"
+      "title": "そして彼女は消えた",
+      "size": 0
     },
     {
       "index": "SAS",
       "genre": "青春ミステリ",
-      "title": "少女Ａは卒業しない"
+      "title": "少女Ａは卒業しない",
+      "size": 0
     },
     {
       "index": "UMS",
       "genre": "恋愛ミステリ",
-      "title": "運命の人症候群"
+      "title": "運命の人症候群",
+      "size": 0
     },
     {
       "index": "KWR",
       "genre": "恋愛ミステリ",
-      "title": "君と私の恋愛教室"
+      "title": "君と私の恋愛教室",
+      "size": 0
     },
     {
       "index": "OIO",
       "genre": "恋愛ミステリ",
-      "title": "オーロラの色を教えて"
+      "title": "オーロラの色を教えて",
+      "size": 0
     },
     {
       "index": "YGE",
       "genre": "恋愛ミステリ",
-      "title": "夕暮れの笑顔が描けない"
+      "title": "夕暮れの笑顔が描けない",
+      "size": 0
     },
     {
       "index": "KKT",
       "genre": "ライトノベル",
-      "title": "今日も君はツいてない"
+      "title": "今日も君はツいてない",
+      "size": 0
     },
     {
       "index": "DPT",
       "genre": "ライトノベル",
-      "title": "大賢者さまのパンツ！"
+      "title": "大賢者さまのパンツ！",
+      "size": 0
     },
     {
       "index": "SKR",
       "genre": "ライトノベル",
-      "title": "所詮この世はＲＰＧ"
+      "title": "所詮この世はＲＰＧ",
+      "size": 0
     },
     {
       "index": "YSH",
       "genre": "ライトノベル",
-      "title": "勇者シャーロックは冒険しない"
+      "title": "勇者シャーロックは冒険しない",
+      "size": 0
     },
     {
       "index": "KNZ",
       "genre": "ライトノベル",
-      "title": "神無月家ノ仕来リ"
+      "title": "神無月家ノ仕来リ",
+      "size": 0
     },
     {
       "index": "ISD",
       "genre": "ライトノベル",
-      "title": "異世界デート"
+      "title": "異世界デート",
+      "size": 0
     },
     {
       "index": "ISC",
       "genre": "ライトノベル",
-      "title": "異世界クラフト倶楽部"
+      "title": "異世界クラフト倶楽部",
+      "size": 0
     },
     {
       "index": "KNM",
       "genre": "ライトノベル",
-      "title": "黒猫と満月の関係"
+      "title": "黒猫と満月の関係",
+      "size": 0
     },
     {
       "index": "DTK",
       "genre": "ライトノベル",
-      "title": "デス娘、恋をする"
+      "title": "デス娘、恋をする",
+      "size": 0
     },
     {
       "index": "HBA",
       "genre": "ライトノベル",
-      "title": "日日野有花の日常"
+      "title": "日日野有花の日常",
+      "size": 0
     },
     {
       "index": "KMS",
       "genre": "ライトノベル",
-      "title": "キモちのセカイ"
+      "title": "キモちのセカイ",
+      "size": 0
     },
     {
       "index": "KGK",
       "genre": "ライトノベル",
-      "title": "介護系彼女"
+      "title": "介護系彼女",
+      "size": 0
     },
     {
       "index": "OIH",
       "genre": "ライトノベル",
-      "title": "俺以外全部女のことをハーレムと呼ぶならそんな世界お断りします"
+      "title": "俺以外全部女のことをハーレムと呼ぶならそんな世界お断りします",
+      "size": 0
     },
     {
       "index": "TRM",
       "genre": "落語",
-      "title": "時らーめん"
+      "title": "時らーめん",
+      "size": 0
     },
     {
       "index": "NJG",
       "genre": "落語",
-      "title": "名付け屋「寿限無」"
+      "title": "名付け屋「寿限無」",
+      "size": 0
     }
   ]
 }
