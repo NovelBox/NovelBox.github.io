@@ -21,9 +21,9 @@ function ShowContentsList(data){
 
 const TestJson = {
     'contents': [
-        {"index": "apple", "title": "TestA"},
-        {"index": "orange", "title": "TestB"},
-        {"index": "melon", "title": "TestC"}
+        {"index": "apple", "title": "TestA", "link": "none"},
+        {"index": "orange", "title": "TestB", "link": "http://yahoo.co.jp/"},
+        {"index": "melon", "title": "TestC", "link": "none"}
     ]
 }
 
@@ -50,7 +50,19 @@ function ShowTableFromJson(obj){
         for (key in data[0]) {
             const td = document.createElement('td');
             td.classList.add('cell');
-            td.textContent = data[i][key];
+            if (key == 'link') {
+                url = data[i][key]
+                if (url && url != "none") {
+                    const a = document.createElement('a');
+                    a.href = url
+                    a.textContent = url
+                    td.appendChild(a)
+                } else {
+                    td.textContent = "none";
+                }
+            } else {
+                td.textContent = data[i][key];
+            }
             tr.appendChild(td);
         }
         table.appendChild(tr);
