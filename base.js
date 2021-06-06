@@ -21,8 +21,9 @@ function ShowContentsList(data){
 
 const TestJson = {
     'contents': [
-        {'index': 0, 'title': 'TestA'},
-        {'index': 1, 'title': 'TestB'}
+        {"index": "apple", "title": "TestA"},
+        {"index": "orange", "title": "TestB"},
+        {"index": "melon", "title": "TestC"}
     ]
 }
 
@@ -32,7 +33,7 @@ function TestContentsList(){
 
 function ShowTableFromJson(obj){
     // データ取得
-    const data = obj.contents;
+    const data = SortData(obj.contents);
     // 要素作成
     const table = document.createElement('table');
     // ヘッダー作成
@@ -56,4 +57,15 @@ function ShowTableFromJson(obj){
     }
     // table追加
     document.body.appendChild(table);
+}
+
+
+function SortData(data){
+    return data.sort((a,b) => {
+        if (a.index > b.index) {
+            return 1;
+        } else {
+            return -1;
+        }
+    })
 }
