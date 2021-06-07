@@ -22,7 +22,7 @@ def getter(fname: str):
     if not os.path.exists(fname):
         raise FileExistsError(fname)
 
-    with open(DATA_FILE, 'r') as file:
+    with open(fname, 'r') as file:
         tmp = yaml.safe_load(file)
         return json.dumps(tmp, indent=2, ensure_ascii=False)
 
@@ -30,7 +30,7 @@ def getter(fname: str):
 def writer(fname: str, data):
     assert isinstance(fname, str)
 
-    with open(OUTPUT_FILE, 'w') as file:
+    with open(fname, 'w') as file:
         file.write(data)
 
 
