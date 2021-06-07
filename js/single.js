@@ -39,9 +39,14 @@ function ShowBodyData(novel) {
     const lines = novel.split(/\r\n|\n/);
     const noveldiv = document.createElement('div');
     for (let line of lines) {
-        const p = document.createElement('p');
-        p.textContent = line;
-        noveldiv.appendChild(p);
+        if (!line.match(/\S/g)) {
+            const br = document.createElement('br');
+            noveldiv.appendChild(br)
+        } else {
+            const p = document.createElement('p');
+            p.textContent = line;
+            noveldiv.appendChild(p);
+        }
     }
     document.body.appendChild(noveldiv);
 }
@@ -61,10 +66,10 @@ function TestShowHead() {
 }
 
 function TestShowBody() {
-    const test_novel = `
-    これはテスト用の文章です。
+    const test_novel = `これはテスト用の文章です。
     表示されるかを試験しています。
     ちゃんと表示されれば大丈夫です。
-    `;
+
+    空行後も確認します。`;
     ShowBodyData(test_novel);
 }
