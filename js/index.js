@@ -5,13 +5,12 @@ window.addEventListener('DOMContentLoaded', () => {
     .then((response) => response.json())
     .then((data) => {
         ShowContentsList(data);
-        console.log('test data');
     })
     .catch((error) => {
         console.log(error);
+        console.log('test data display');
         TestContentsList();
     });
-    console.log('hello');
 });
 
 function ShowContentsList(data){
@@ -23,7 +22,7 @@ const TestJson = {
     'contents': [
         {"index": "apple", "title": "TestA", "link": "none"},
         {"index": "orange", "title": "TestB", "link": "http://yahoo.co.jp/"},
-        {"index": "melon", "title": "TestC", "link": "none"}
+        {"index": "melon", "title": "TestC", "link": "index.html"}
     ]
 }
 
@@ -54,8 +53,12 @@ function ShowTableFromJson(obj){
                 url = data[i][key]
                 if (url && url != "none") {
                     const a = document.createElement('a');
-                    a.href = url
-                    a.textContent = url
+                    if (url.indexOf('http') != -1) {
+                        a.href = url
+                    } else {
+                        a.href = data[i]['index'] + '/' + url
+                    }
+                    a.textContent = "page"
                     td.appendChild(a)
                 } else {
                     td.textContent = "none";
