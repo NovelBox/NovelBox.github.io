@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0fe;
+}
+
+table {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    margin: auto;
+}
