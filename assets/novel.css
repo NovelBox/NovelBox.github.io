@@ -3,7 +3,17 @@ body {
 }
 
 table {
-    text-align: center;
+    align: right;
+    border-collapse: collapse;
+    border: 1px solid;
+}
+th, td {
+    border: 1px solid;
+}
+
+.noveldata {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .row {
@@ -12,4 +22,9 @@ table {
 
 .cell {
     margin: auto;
+}
+.copyright {
+    text-align: right;
+    font-style: italic;
+    font-size: small;
 }

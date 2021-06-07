@@ -29,10 +29,39 @@ function ShowHeadData(base_data) {
         return false;
     }
     const data = base_data.data
+    const datadiv = document.createElement('div');
+    datadiv.classList.add('noveldata');
     // Title
     const title = document.createElement('h1');
-    title.textContent = data.title
-    document.body.appendChild(title);
+    title.textContent = data.title;
+    // Outline
+    const outline = document.createElement('div');
+    outline.textContent = data.outline;
+    // Data
+    const table = document.createElement('table');
+    const contents_keys = [
+        'version', 'released', 'updated',
+    ];
+    const head_tr = document.createElement('tr');
+    const data_tr = document.createElement('tr');
+    for (let key of contents_keys) {
+        const th = document.createElement('th');
+        th.textContent = key;
+        head_tr.appendChild(th);
+        const td = document.createElement('td');
+        td.textContent = data[key];
+        data_tr.appendChild(td);
+    }
+    table.appendChild(head_tr);
+    table.appendChild(data_tr);
+    datadiv.appendChild(table);
+    // hr
+    const hr = document.createElement('hr');
+    // Add parts
+    const html_data = [title, outline, datadiv, hr];
+    for (let val of html_data) {
+        document.body.appendChild(val);
+    }
 }
 
 function ShowBodyData(novel) {
@@ -49,6 +78,13 @@ function ShowBodyData(novel) {
         }
     }
     document.body.appendChild(noveldiv);
+    // Footer
+    const hr = document.createElement('hr');
+    const cpright = document.createElement('p');
+    cpright.textContent = '(C)N.T.WORKS';
+    cpright.classList.add('copyright');
+    document.body.appendChild(hr);
+    document.body.appendChild(cpright);
 }
 
 function TestShowHead() {
