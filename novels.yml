@@ -97,7 +97,7 @@ contents:
   - {index: KSK, genre: 現代ドラマ, title: 九条冴子は返さない, status: develop, size: 0, outline: 概要, link: none}
   - {index: GYI, genre: 現代ドラマ, title: 元気でやっています, status: develop, size: 0, outline: 概要, link: none}
   - {index: BGD, genre: 現代ドラマ, title: ぼくはゲイです, status: develop, size: 0, outline: 概要, link: none}
-  - {index: HDH, genre: 現代ドラマ, title: ハミダシモノ、はじめました, status: develop, size: 0, outline: 概要, link: none}
+  - {index: HDH, genre: 現代ドラマ, title: ハミダシモノ、はじめました, status: released, size: 8K, outline: 概要, link: index.html}
   - {index: KRK, genre: 現代ドラマ, title: 亀裂の聲, status: develop, size: 0, outline: 概要, link: none}
   - {index: KYS, genre: 現代ドラマ, title: 暗闇に差し伸べて, status: develop, size: 0, outline: 概要, link: none}
   - {index: TBR, genre: 現代ドラマ, title: 食べるっ！, status: develop, size: 0, outline: 概要, link: none}
@@ -114,7 +114,7 @@ contents:
   - {index: SNU, genre: 現代ドラマ, title: 讃岐うどん, status: develop, size: 0, outline: 概要, link: none}
   - {index: NDI, genre: 現代ドラマ, title: 涙の意味は, status: develop, size: 0, outline: 概要, link: none}
   - {index: NDM, genre: 現代ドラマ, title: 涙のものがたり, status: develop, size: 0, outline: 概要, link: none}
-  - {index: KOB, genre: 現代ドラマ, title: 悲しみの落ちる場所, status: released, size: 0, outline: 概要, link: index.html}
+  - {index: KOB, genre: 現代ドラマ, title: 悲しみの落ちる場所, status: released, size: 8K, outline: 概要, link: index.html}
   - {index: HME, genre: 現代ドラマ, title: 百万円のお仕事, status: develop, size: 0, outline: 概要, link: none}
   - {index: HNK, genre: 現代ドラマ, title: ホンネの小箱, status: develop, size: 0, outline: 概要, link: none}
   - {index: SKS, genre: 現代ドラマ, title: 四季少女, status: develop, size: 0, outline: 概要, link: none}

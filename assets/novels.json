@@ -886,10 +886,10 @@
       "index": "HDH",
       "genre": "現代ドラマ",
       "title": "ハミダシモノ、はじめました",
-      "status": "develop",
-      "size": 0,
+      "status": "released",
+      "size": "8K",
       "outline": "概要",
-      "link": "none"
+      "link": "index.html"
     },
     {
       "index": "KRK",
@@ -1040,7 +1040,7 @@
       "genre": "現代ドラマ",
       "title": "悲しみの落ちる場所",
       "status": "released",
-      "size": 0,
+      "size": "8K",
       "outline": "概要",
       "link": "index.html"
     },
