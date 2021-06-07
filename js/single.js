@@ -68,6 +68,10 @@ function ShowBodyData(novel) {
         if (!line.match(/\S/g)) {
             const br = document.createElement('br');
             noveldiv.appendChild(br)
+        } else if (line.startsWith('# ')) {
+            const h3 = document.createElement('h3');
+            h3.textContent = line.slice(2);
+            noveldiv.appendChild(h3);
         } else {
             const p = document.createElement('p');
             p.textContent = line;
@@ -100,9 +104,13 @@ function TestShowHead() {
 
 function TestShowBody() {
     const test_novel = `これはテスト用の文章です。
-    表示されるかを試験しています。
-    ちゃんと表示されれば大丈夫です。
+表示されるかを試験しています。
+ちゃんと表示されれば大丈夫です。
 
-    空行後も確認します。`;
+空行後も確認します。
+
+# これは章タイトルです
+
+文章は続きます。`;
     ShowBodyData(test_novel);
 }

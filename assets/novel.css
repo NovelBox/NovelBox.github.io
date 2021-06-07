@@ -3,12 +3,15 @@ body {
 }
 
 table {
-    align: right;
     border-collapse: collapse;
     border: 1px solid;
 }
 th, td {
     border: 1px solid;
+}
+
+h3 {
+    margin: 0.2em 5em;
 }
 
 p {
@@ -32,4 +35,5 @@ p {
     text-align: right;
     font-style: italic;
     font-size: small;
+    margin: 0.1em;
 }
