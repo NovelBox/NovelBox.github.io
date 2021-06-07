@@ -1,4 +1,4 @@
-const base_data = 'base.json';
+const base_data = 'data.json';
 const novel_data = 'book.txt';
 
 window.addEventListener('DOMContentLoaded', () => {
