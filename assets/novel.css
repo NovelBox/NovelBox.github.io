@@ -11,6 +11,10 @@ th, td {
     border: 1px solid;
 }
 
+p {
+    line-height: 50%;
+}
+
 .noveldata {
     display: flex;
     justify-content: flex-end;
