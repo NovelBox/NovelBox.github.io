@@ -4,6 +4,7 @@ window.addEventListener('DOMContentLoaded', () => {
     fetch(data_url)
     .then((response) => response.json())
     .then((data) => {
+        console.log('get contents data');
         ShowContentsList(data);
     })
     .catch((error) => {
