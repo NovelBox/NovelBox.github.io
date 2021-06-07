@@ -1,4 +1,4 @@
-const data_url = 'novels.json';
+const data_url = 'assets/novels.json';
 
 window.addEventListener('DOMContentLoaded', () => {
     fetch(data_url)
