@@ -6,18 +6,15 @@ window.addEventListener('DOMContentLoaded', () => {
     .then((response) => response.json())
     .then((data) => {
         ShowHeadData(data);
+        return fetch(novel_data)
     })
-    .catch((error) => {
-        console.log(error);
-        TestShowHead();
-    });
-    fetch(novel_data)
     .then((response) => response.text())
     .then((data) => {
         ShowBodyData(data);
     })
     .catch((error) => {
         console.log(error);
+        TestShowHead();
         TestShowBody();
     });
 });
