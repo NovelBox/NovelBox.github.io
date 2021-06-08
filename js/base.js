@@ -83,6 +83,15 @@ function ShowHeadData(base_data) {
     document.body.appendChild(hr);
 }
 
+function ShowFootData() {
+    const hr = document.createElement('hr');
+    const cpright = document.createElement('p');
+    cpright.textContent = '(C)N.T.WORKS';
+    cpright.classList.add('copyright');
+    document.body.appendChild(hr);
+    document.body.appendChild(cpright);
+}
+
 function TestShowHead() {
     const test_base_data = {
         "data":{

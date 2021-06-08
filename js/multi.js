@@ -87,6 +87,8 @@ function ShowBodyMultiData(novels) {
     // show
     const chapters = document.getElementsByClassName('chapter');
     chapters[0].style.display = 'block';
+    // Footer
+    ShowFootData();
 }
 
 function OnClickNovelButton(index) {

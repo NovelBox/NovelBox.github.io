@@ -37,13 +37,7 @@ function ShowBodyData(novel) {
         }
     }
     document.body.appendChild(noveldiv);
-    // Footer
-    const hr = document.createElement('hr');
-    const cpright = document.createElement('p');
-    cpright.textContent = '(C)N.T.WORKS';
-    cpright.classList.add('copyright');
-    document.body.appendChild(hr);
-    document.body.appendChild(cpright);
+    ShowFootData();
 }
 
 function TestShowBody() {
