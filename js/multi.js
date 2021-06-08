@@ -82,6 +82,7 @@ function ShowBodyMultiData(novels) {
     }
     // add
     document.body.appendChild(btnbox);
+    document.body.appendChild(document.createElement('hr'));
     document.body.appendChild(contentbody);
     // show
     const chapters = document.getElementsByClassName('chapter');
