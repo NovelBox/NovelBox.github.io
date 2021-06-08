@@ -28,6 +28,15 @@ function CreatePersonList(data) {
     document.body.appendChild(table);
 }
 
+function CreateBack() {
+    // back button
+    const back = document.createElement('button');
+    back.classList.add('back');
+    back.textContent = 'BACK';
+    back.onclick = function(){history.back();};
+    document.body.appendChild(back);
+}
+
 function OnClickPButton() {
     const pinfo = document.getElementById('info');
     if (pinfo.style.display == 'block') {
@@ -73,6 +82,7 @@ function ShowHeadData(base_data) {
     // hr
     const hr = document.createElement('hr');
     // Add parts
+    CreateBack();
     const html_data = [title, outline, datadiv];
     for (let val of html_data) {
         document.body.appendChild(val);

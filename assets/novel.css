@@ -46,3 +46,9 @@ p {
     font-size: small;
     margin: 0.1em;
 }
+.back {
+    text-align: right;
+    font-style: italic;
+    font-size: small;
+    margin: 0.1em;
+}
