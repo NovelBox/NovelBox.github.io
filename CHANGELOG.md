@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.1.1] - 2021-06-08
 ### Added
 - 悲しみの落ちる場所
 - ハミダシモノ、はじめました
@@ -16,6 +17,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - はじめましての百文字
 
 
-[Unreleased]: https://github.com/NovelBox/NovelBox.github.io/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/NovelBox/NovelBox.github.io/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/NovelBox/NovelBox.github.io/releases/v0.1.1
 [0.1.0]: https://github.com/NovelBox/NovelBox.github.io/releases/v0.1.0
 [0.0.1]: https://github.com/NovelBox/NovelBox.github.io/releases/v0.0.1
