@@ -93,7 +93,7 @@ contents:
   - {index: KTM, genre: 現代ファンタジィ, title: 狐の森, status: develop, size: 0, outline: 概要, link: none}
   - {index: KOS, genre: 現代ファンタジィ, title: 幸福の黄金少女, status: develop, size: 0, outline: 概要, link: none}
   - {index: AUB, genre: 現代ドラマ, title: 愛を埋める場所, status: develop, size: 0, outline: 概要, link: none}
-  - {index: MAA, genre: 現代ドラマ, title: ミントの匂いと雨の痕, status: develop, size: 0, outline: 概要, link: none}
+  - {index: MNA, genre: 現代ドラマ, title: ミントの匂いと雨の痕, status: released, size: 8K, outline: 概要, link: index.html}
   - {index: KSK, genre: 現代ドラマ, title: 九条冴子は返さない, status: develop, size: 0, outline: 概要, link: none}
   - {index: GYI, genre: 現代ドラマ, title: 元気でやっています, status: develop, size: 0, outline: 概要, link: none}
   - {index: BGD, genre: 現代ドラマ, title: ぼくはゲイです, status: develop, size: 0, outline: 概要, link: none}

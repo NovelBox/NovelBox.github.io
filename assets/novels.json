@@ -847,13 +847,13 @@
       "link": "none"
     },
     {
-      "index": "MAA",
+      "index": "MNA",
       "genre": "現代ドラマ",
       "title": "ミントの匂いと雨の痕",
-      "status": "develop",
-      "size": 0,
+      "status": "released",
+      "size": "8K",
       "outline": "概要",
-      "link": "none"
+      "link": "index.html"
     },
     {
       "index": "KSK",
