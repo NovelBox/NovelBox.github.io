@@ -14,6 +14,15 @@ h3 {
     margin: 0.2em 5em;
 }
 
+#info table {
+    padding: 0.1em 10em;
+    text-align: right;
+}
+
+#info table, tr,th,td {
+    border: 0;
+}
+
 p {
     line-height: 1.5;
     margin: 0.2em 10em;

@@ -19,6 +19,45 @@ window.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+function CreatePersonList(data) {
+    if (!data.persons) {
+        return;
+    }
+    const pdata = data.persons;
+    // button
+    const btn = document.createElement('button');
+    btn.textContent = '登場人物';
+    btn.onclick = OnClickPButton;
+    // person list
+    const table = document.createElement('table');
+    table.setAttribute('id', 'info');
+    table.style.display = 'none';
+    for (let key in pdata) {
+        const tr = document.createElement('tr');
+        const name = document.createElement('td');
+        const info = document.createElement('td');
+        name.textContent = key;
+        if (pdata[key]) {
+            info.textContent = '……' + pdata[key];
+        }
+        tr.appendChild(name);
+        tr.appendChild(info);
+        table.appendChild(tr);
+    }
+    // to body
+    document.body.appendChild(btn);
+    document.body.appendChild(table);
+}
+
+function OnClickPButton() {
+    const pinfo = document.getElementById('info');
+    if (pinfo.style.display == 'block') {
+        pinfo.style.display = 'none';
+    } else {
+        pinfo.style.display = 'block';
+    }
+}
+
 function ShowHeadData(base_data) {
     // check data
     if (Object.keys(base_data).indexOf('data') == -1) {
@@ -55,10 +94,14 @@ function ShowHeadData(base_data) {
     // hr
     const hr = document.createElement('hr');
     // Add parts
-    const html_data = [title, outline, datadiv, hr];
+    const html_data = [title, outline, datadiv];
     for (let val of html_data) {
         document.body.appendChild(val);
     }
+    // persons
+    CreatePersonList(data);
+    // hr
+    document.body.appendChild(hr);
 }
 
 function ShowBodyData(novel) {
@@ -96,7 +139,11 @@ function TestShowHead() {
             "version": "1.0.0",
             "released": "2020.1.1",
             "updated": "2020.1.1",
-            "note": "備考"
+            "note": "備考",
+            "persons": {
+                "太郎": "主人公",
+                "花子": ""
+            }
         }
     };
     ShowHeadData(test_base_data);
