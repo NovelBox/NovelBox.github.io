@@ -154,7 +154,7 @@ contents:
   - {index: SKK, genre: 青春ミステリ, title: そして彼女は消えた, status: develop, size: 0, outline: 概要, link: none}
   - {index: SAS, genre: 青春ミステリ, title: 少女Ａは卒業しない, status: develop, size: 0, outline: 概要, link: none}
   - {index: UMS, genre: 恋愛ミステリ, title: 運命の人症候群, status: develop, size: 0, outline: 概要, link: none}
-  - {index: KWR, genre: 恋愛ミステリ, title: 君と私の恋愛教室, status: develop, size: 0, outline: 概要, link: none}
+  - {index: KWR, genre: 恋愛ミステリ, title: 君と私の恋愛教室, status: released, size: 0, outline: 概要, link: index.html}
   - {index: OIO, genre: 恋愛ミステリ, title: オーロラの色を教えて, status: develop, size: 0, outline: 概要, link: none}
   - {index: YGE, genre: 恋愛ミステリ, title: 夕暮れの笑顔が描けない, status: develop, size: 0, outline: 概要, link: none}
   - {index: KKT, genre: ライトノベル, title: 今日も君はツいてない, status: develop, size: 0, outline: 概要, link: none}

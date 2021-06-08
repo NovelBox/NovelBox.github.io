@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - 悲しみの落ちる場所
 - ハミダシモノ、はじめました
+- 君と私の恋愛教室
 
 ## [0.1.0] - 2021-06-07
 ### Added
