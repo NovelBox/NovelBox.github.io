@@ -66,7 +66,7 @@ function ShowHeadData(base_data) {
     }
     const data = base_data.data
     const datadiv = document.createElement('div');
-    datadiv.classList.add('noveldata');
+    datadiv.setAttribute('id', 'noveldata');
     // Title
     const title = document.createElement('h1');
     title.textContent = data.title;

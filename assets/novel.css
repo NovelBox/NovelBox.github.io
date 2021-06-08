@@ -2,11 +2,11 @@ body {
     background-color: #f0f0fe;
 }
 
-table {
+#noveldata table {
     border-collapse: collapse;
     border: 1px solid;
 }
-th, td {
+#noveldata th, #noveldata td {
     border: 1px solid;
 }
 
@@ -28,7 +28,7 @@ p {
     margin: 0.2em 10em;
 }
 
-.noveldata {
+#noveldata {
     display: flex;
     justify-content: flex-end;
 }
