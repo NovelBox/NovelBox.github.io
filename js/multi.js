@@ -51,7 +51,7 @@ function ShowBodyMultiData(novels) {
     btnbox.classList.add('buttonbox');
     for (let i = 0; i < data.length; i++) {
         const btn = document.createElement('button');
-        btn.textContent = i + 1;
+        btn.textContent = data[i].title;
         btn.onclick = function() {OnClickNovelButton(i);};
         btnbox.appendChild(btn);
     }
